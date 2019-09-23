@@ -15,7 +15,7 @@ def main():
 			print ("\033[1;30m	╔═╗┬─┐┬┌┬┐┌┬┐┌─┐┌┬┐┬ ┬┬┬┌─┌─┐	")
 			print ("\033[1;31m	╠═╣├┬┘│ │ │││├─┤ │ ├─┤│├┴┐├─┤	")
 			print ("\033[1;32m	╩ ╩┴└─┴ ┴ ┴ ┴┴ ┴ ┴ ┴ ┴┴┴ ┴┴ ┴	")
-			print ("\033[1;36m	Coded By Khazul Yussery	")
+			print ("\033[1;36m	Coded By Azrul nizam  ")
 
 			name = str(input("\n\033[1;32m[+]\033[1;35m Siapa nama kamu? "))
 			if not name:
